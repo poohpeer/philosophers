@@ -30,5 +30,3 @@ class Chopsticks(object):
         for chopstick in free_chops:
             chopstick.state = ChopstickState.free
         return None
-
-
